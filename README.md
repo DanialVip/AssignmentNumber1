@@ -28,5 +28,20 @@ $ cd todo
 todo> python manage.py runserver
 
 ## Usage
-## 1)  To access the server, we must first register an account and generate a username and password. To do so, type the following command at the command prompt.
+## 1) To access the server, we must first register an account and generate a username and password. To do so, type the following command at the command prompt.
 ![image](https://user-images.githubusercontent.com/74869146/150312556-f3cefd03-6a1b-4f70-af8d-098c3e729aa3.png)
+## 2) Then, using our login and password, log in to our server. In addition, we must add admin to the end of our address in order to access the login page.
+![image](https://user-images.githubusercontent.com/74869146/150312707-6a863a1a-9157-4fe3-a255-2d3b381d8b39.png)
+## 3) You may quickly add and remove tasks from your glider.
+![image](https://user-images.githubusercontent.com/74869146/150313172-f74e8879-00fc-497a-8f87-4ea4d31281f7.png)
+
+![image](https://user-images.githubusercontent.com/74869146/150313537-aae6696c-aa72-449e-bb77-2be4489da3af.png)
+
+![image](https://user-images.githubusercontent.com/74869146/150313638-be609003-7730-46f6-906c-d032f5e2360e.png)
+
+![image](https://user-images.githubusercontent.com/74869146/150313728-0c331bb7-3635-442c-af3f-7fd4119572c4.png)
+## 4) 
+![image](https://user-images.githubusercontent.com/74869146/150314053-1ba4d9b5-619e-4229-a420-54ebedf9df3f.png)
+## 5) 
+![image](https://user-images.githubusercontent.com/74869146/150314150-9f3292e1-5ef3-4d3c-af9e-d85ff711335d.png)
+
